@@ -1,1 +1,2 @@
-# Face-eyes-and-pedestrian-detection
+# OpenCV using HAAR Cascade classifiers
+
