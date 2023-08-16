@@ -1,2 +1,2 @@
-# OpenCV using HAAR Cascade classifiers
+# Image Segmentation
 
