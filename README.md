@@ -1,6 +1,6 @@
 # Image Segmentation
 
-Project Report
+Project:
 
 Processed the images for finding the boundaries between objects within images using the Edge-detection algorithm
 • Detected different regions in images based on similarity in pixels using region-based segmentation and K-means
